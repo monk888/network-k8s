@@ -1,7 +1,6 @@
 
 
-> 名称：《K8s主流网络方案实战》 
-> ![](https://k8s-1252881505.cos.ap-beijing.myqcloud.com/wx.png)
+
 
 
 

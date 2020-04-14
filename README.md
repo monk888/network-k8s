@@ -1,7 +1,5 @@
-> 讲师：李振良(微信: init1024)
->
-> 官方网站： http://www.ctnrs.com  
->
+
+
 > 名称：《K8s主流网络方案实战》 
 > ![](https://k8s-1252881505.cos.ap-beijing.myqcloud.com/wx.png)
 
@@ -786,6 +784,4 @@ from.podSelector: {} : 如果未配置具体的规则，默认不允许
 
 
 
->讲师：李振良
->
->官方网站： http://www.ctnrs.com  
+
